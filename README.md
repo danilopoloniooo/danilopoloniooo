@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Danilo Penafiel Polonio, tenho 19 anos e sou do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Tenho interesse em desenvolvimento de software e estou focado em aprender programação, construir projetos práticos e desenvolver minhas habilidades para ingressar na área de tecnologia.
+Me chamo Danilo Penafiel Polonio, tenho 19 anos e sou de Maringá. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniCesumar. Tenho interesse em desenvolvimento de software e estou focado em aprender programação, construir projetos práticos e desenvolver minhas habilidades para ingressar na área de tecnologia.
 
 ---
 
